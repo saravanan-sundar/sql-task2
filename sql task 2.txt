@@ -1,0 +1,10 @@
+creating the table code :
+
+create table mentor(
+   batch_id integer,
+   name text,
+   batches text,
+   qulification text)
+
+insert the values in table :
+insert into Mentor values("1","saravanan","b51wd","full stack development")
